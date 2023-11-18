@@ -12,7 +12,7 @@ Feel free to explore the documentation to learn more about the project, its obje
 **To run the Streamlit app**, simply execute the following script in your terminal:
 
 ```python
-python -m streamlit run .\streamlit_corn.py
+python -m streamlit run .\streamlit_crop.py
 ```
 
 
